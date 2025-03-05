@@ -6,6 +6,6 @@
 2. Highlight patterns in peak attendance house, enabling optimization of workforce scheduling.
 3. Discovered seasonal variation in employee presence, guiding strategic planning for resource allocation.
 4. Provide actionable insights through KPIs, improving decision-making & reducing absenteeism by 10%.
-
 ## 
+## Skills: Microsoft Excel, Data Visualization, Power BI.
    
